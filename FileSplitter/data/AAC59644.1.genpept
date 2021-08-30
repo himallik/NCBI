@@ -1,0 +1,192 @@
+LOCUS       AAC59644                1132 aa            linear   VRT 05-JAN-1994
+DEFINITION  myosin binding protein C [Gallus gallus].
+ACCESSION   AAC59644
+VERSION     AAC59644.1
+DBSOURCE    accession U00922.1
+KEYWORDS    .
+SOURCE      Gallus gallus (chicken)
+  ORGANISM  Gallus gallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Phasianinae; Gallus.
+REFERENCE   1  (residues 1 to 1132)
+  AUTHORS   Okagaki,T., Weber,F.E., Fischman,D.A., Vaughan,K.T., Mikawa,T. and
+            Reinach,F.C.
+  TITLE     The major myosin-binding domain of skeletal muscle MyBP-C (C
+            protein) resides in the COOH-terminal, immunoglobulin C2 motif
+  JOURNAL   J. Cell Biol. 123 (3), 619-626 (1993)
+   PUBMED   8227129
+REFERENCE   4  (residues 1 to 1132)
+  AUTHORS   Vaughan,K.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-1993) Kevin T Vaughan, Cell Biology Group,
+            Worcester Foundation for Experimental Biology, 222 Maple Avenue,
+            Shrewsbury, MA, 01545, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..1132
+                     /organism="Gallus gallus"
+                     /db_xref="taxon:9031"
+                     /clone="lambda-c86, A-5"
+                     /tissue_type="skeletal muscle (pectoralis major)"
+                     /dev_stage="neonatal (1 week post-hatch)"
+     Protein         1..1132
+                     /product="myosin binding protein C"
+     Region          53..147
+                     /region_name="Ig"
+                     /note="Immunoglobulin domain; cl11960"
+                     /db_xref="CDD:299845"
+     Region          56..149
+                     /region_name="IG_like"
+                     /note="Immunoglobulin like; smart00410"
+                     /db_xref="CDD:214653"
+     mat_peptide     66..153
+                     /product="Motif I (IgC2=Immunoglobulin C2)"
+                     /note="amino acid residues 65-153"
+     Region          252..336
+                     /region_name="I-set"
+                     /note="Immunoglobulin I-set domain; pfam07679"
+                     /db_xref="CDD:254352"
+     mat_peptide     260..344
+                     /product="Motif II (IgC2)"
+                     /note="amino acid residues 259-344"
+     Region          277..327
+                     /region_name="Ig"
+                     /note="Immunoglobulin domain; cl11960"
+                     /db_xref="CDD:299845"
+     Region          342..426
+                     /region_name="I-set"
+                     /note="Immunoglobulin I-set domain; pfam07679"
+                     /db_xref="CDD:254352"
+     Region          348..426
+                     /region_name="Ig"
+                     /note="Immunoglobulin domain; cl11960"
+                     /db_xref="CDD:299845"
+     mat_peptide     349..437
+                     /product="Motif III (IgC2)"
+                     /note="amino acid residues 349-437"
+     mat_peptide     438..525
+                     /product="Motif IV (IgC2)"
+                     /note="amino acid residues 438-525"
+     Region          439..>501
+                     /region_name="IG_like"
+                     /note="Immunoglobulin like; smart00410"
+                     /db_xref="CDD:214653"
+     Region          448..>501
+                     /region_name="Ig"
+                     /note="Immunoglobulin domain; cd00096"
+                     /db_xref="CDD:143165"
+     Region          542..627
+                     /region_name="Ig_C5_MyBP-C"
+                     /note="C5 immunoglobulin (Ig) domain of cardiac myosin
+                     binding protein C (MyBP-C); cd05894"
+                     /db_xref="CDD:143302"
+     Region          545..627
+                     /region_name="IG_like"
+                     /note="Immunoglobulin like; smart00410"
+                     /db_xref="CDD:214653"
+     mat_peptide     547..629
+                     /product="Motif V (IgC2)"
+                     /note="amino acid residues 547-629"
+     mat_peptide     630..727
+                     /product="Motif VI (FnIII=fibronectin type III repeat)"
+                     /note="amino acid residues 630-727"
+     Region          631..717
+                     /region_name="FN3"
+                     /note="Fibronectin type 3 domain; One of three types of
+                     internal repeats found in the plasma protein fibronectin.
+                     Its tenth fibronectin type III repeat contains an RGD cell
+                     recognition sequence in a flexible loop between 2 strands.
+                     Approximately 2% of all...; cd00063"
+                     /db_xref="CDD:238020"
+     Site            order(631,697,712)
+                     /site_type="other"
+                     /note="Interdomain contacts"
+                     /db_xref="CDD:238020"
+     Site            order(713..714,716..717)
+                     /site_type="other"
+                     /note="Cytokine receptor motif"
+                     /db_xref="CDD:238020"
+     mat_peptide     727..827
+                     /product="Motif VII (FnIII)"
+                     /note="amino acid residues 727-827"
+     Region          730..822
+                     /region_name="FN3"
+                     /note="Fibronectin type 3 domain; One of three types of
+                     internal repeats found in the plasma protein fibronectin.
+                     Its tenth fibronectin type III repeat contains an RGD cell
+                     recognition sequence in a flexible loop between 2 strands.
+                     Approximately 2% of all...; cd00063"
+                     /db_xref="CDD:238020"
+     Site            order(811..812,814..815)
+                     /site_type="other"
+                     /note="Cytokine receptor motif"
+                     /db_xref="CDD:238020"
+     Region          840..920
+                     /region_name="IG_like"
+                     /note="Immunoglobulin like; smart00410"
+                     /db_xref="CDD:214653"
+     mat_peptide     841..914
+                     /product="Motif VIII (IgC2)"
+                     /note="amino acid residues 841-917"
+     Region          849..920
+                     /region_name="Ig_Titin_like"
+                     /note="Immunoglobulin (Ig)-like domain of titin and
+                     similar proteins; cd05748"
+                     /db_xref="CDD:143225"
+     mat_peptide     924..1021
+                     /product="Motif IX (FnIII)"
+                     /note="amino acid residues 924-1021"
+     Region          924..1012
+                     /region_name="FN3"
+                     /note="Fibronectin type 3 domain; One of three types of
+                     internal repeats found in the plasma protein fibronectin.
+                     Its tenth fibronectin type III repeat contains an RGD cell
+                     recognition sequence in a flexible loop between 2 strands.
+                     Approximately 2% of all...; cd00063"
+                     /db_xref="CDD:238020"
+     Site            order(924,989,1004)
+                     /site_type="other"
+                     /note="Interdomain contacts"
+                     /db_xref="CDD:238020"
+     Site            order(1005..1006,1009..1010)
+                     /site_type="other"
+                     /note="Cytokine receptor motif"
+                     /db_xref="CDD:238020"
+     Region          1039..1128
+                     /region_name="I-set"
+                     /note="Immunoglobulin I-set domain; pfam07679"
+                     /db_xref="CDD:254352"
+     mat_peptide     1048..1132
+                     /product="Motif X (IgC2)"
+                     /note="amino acid residues 1048-1132"
+     Region          1056..1123
+                     /region_name="Ig"
+                     /note="Immunoglobulin domain; cd00096"
+                     /db_xref="CDD:143165"
+     CDS             1..1132
+                     /gene="MyBP-C"
+                     /standard_name="MyBP-C (C-Protein)"
+                     /coded_by="U00922.1:25..3423"
+ORIGIN      
+        1 mpepskaapk keakkkeekk eekkeapppq ehkdeapddv hppetpdpeg lflskpqnvm
+       61 vesgrdvtvs arvagaalpc apavkwfkgk waelgdksar crlrhsvddd kvhtfeltit
+      121 kvamgdrgdy rcevtakeqk dscsfsidve aprssegnvl qafkrtgegk ddtageldfs
+      181 gllkkrevqv eekkkkkded dqfppeiwel lkgvtkksey eriafqygit dlrgmlkrlk
+      241 kvhvepkkse afirkldpay qvdkgnkikl vvelsdpdlp lkwykngqll kpstkyvfen
+      301 vglkriltih kcsladdaay ecrvndekcf tevfvkeppv tvvrgledqq vvvgdrvvle
+      361 aevseegaqv mwlkdgvdvt rddafkyrfk kdgkkhflii neaelsdsah ykimtngges
+      421 eaelsveekq levlqdmadl tvkaseqavf kcevsdekvt grwfrngvev kpskrihish
+      481 ngrfhklvid dvrpedegdy tfipdgyals lsaklnflei kveyvpkqep pkihldcsgk
+      541 aaentivvva gnkvrldvpi sgepaptvtw krgdqlftat egrvhidsqa dlssfviesa
+      601 ersdegryci tvtnpvgeds atlhvrvvdv pdppqsvrvt svgedwavls weappfdggm
+      661 pitgylmerk kkgsmrwmkl nfevfpdtty estkmiegvf yemrvfavna igvsqpslnt
+      721 qpfmpiapts epthvvledv tdttatikwr pperigaggv dgylvewcre gsnewvaant
+      781 elvercglta rglptgerll frvisvnmag ksppatmaqp vtireiverp kirlprhlrq
+      841 tyirrvgeqv nlvipfqgkp rpqvtwsreg galpaevqtr tsdvdsvffi rsaarplsgn
+      901 yemrvridnm edcatlrlrv verpgppqav rvmevwgsna llqweppkdd gnaeisgytv
+      961 qkadtrtmew ftvlehsrpt rctvselvmg neyrfrvyse nvcgtsqepa tshntariak
+     1021 egltlkmvpy kerdlraapq fltplvdrsv vagytvtlnc avrghpkpkv twlknsveig
+     1081 adpkflsrhg lgvlsllirr pgpfdggtyg cravnemgea ttecrldvrv pq
+//
